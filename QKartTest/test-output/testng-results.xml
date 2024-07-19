@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-13T14:38:08 IST" name="Suite" finished-at="2024-07-13T14:38:26 IST" duration-ms="18024">
+    <groups>
+    </groups>
+    <test started-at="2024-07-13T14:38:08 IST" name="Test" finished-at="2024-07-13T14:38:26 IST" duration-ms="18024">
+      <class name="qa.QKartTest.QKartTestCase1">
+        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:qa.QKartTest.QKartTestCase1@6c40365c]" started-at="2024-07-13T14:38:08 IST" name="beforeTestMethod" finished-at="2024-07-13T14:38:08 IST" duration-ms="370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method is-config="true" signature="generateUserCredentials()[pri:0, instance:qa.QKartTest.QKartTestCase1@6c40365c]" started-at="2024-07-13T14:38:08 IST" name="generateUserCredentials" finished-at="2024-07-13T14:38:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateUserCredentials -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:qa.QKartTest.QKartTestCase1@6c40365c]" started-at="2024-07-13T14:38:08 IST" name="beforeMethod" finished-at="2024-07-13T14:38:16 IST" duration-ms="8111" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void qa.QKartTest.QKartTestCase1.newRegistrationAndLOgin() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="newRegistrationAndLOgin()[pri:0, instance:qa.QKartTest.QKartTestCase1@6c40365c]" started-at="2024-07-13T14:38:16 IST" name="newRegistrationAndLOgin" finished-at="2024-07-13T14:38:24 IST" duration-ms="8153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newRegistrationAndLOgin -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:qa.QKartTest.QKartTestCase1@6c40365c]" started-at="2024-07-13T14:38:24 IST" name="afterMethod" finished-at="2024-07-13T14:38:25 IST" duration-ms="723" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=newRegistrationAndLOgin status=SUCCESS method=QKartTestCase1.newRegistrationAndLOgin()[pri:0, instance:qa.QKartTest.QKartTestCase1@6c40365c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:qa.QKartTest.QKartTestCase1@6c40365c]" started-at="2024-07-13T14:38:25 IST" name="afterTest" finished-at="2024-07-13T14:38:26 IST" duration-ms="617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- qa.QKartTest.QKartTestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
